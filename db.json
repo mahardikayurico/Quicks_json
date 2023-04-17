@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Cameron Phillips :",
+      "topics": "109220-Naturalization",
+      "chat": "Please check this out!",
+      "date": "January 1,2021 19:10 "
+    },
+    {
+      "id": 2,
+      "name": "Ellen :",
+      "topics": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
+      "chat": "Hey, please read.",
+      "date": "02/06/2021 10:45"
+    },
+    {
+      "id": 3,
+      "name": "Cameron Phillips :",
+      "topics": " 8405-Diana SALAZAR MUNGUIA",
+      "chat": "I understand your initial concerns and thats very valid, Elizabeth. But you ... ",
+      "date": "01/06/2021 12:19 "
+    },
+    {
+      "id": 4,
+      "name": "Odis Rhinehart",
+      "topics": "FastVisa Support",
+      "chat": " Hey there! Welcome to your inbox",
+      "date": "01/06/2021 12:19"
+    },
+    {
+      "id": 5,
+      "name": "Odis Rhinehart",
+      "topics": "Recruitment",
+      "chat": "hello iam aggre with you",
+      "date": "02/04/2021 13:19"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
